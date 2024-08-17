@@ -287,11 +287,12 @@ section {
     }
 
     .about .row .container-img {
-        margin-bottom: 1rem;
+        margin-bottom: -8rem;
     }
 
     .about .row .content {
-        padding: 1rem;
+        padding: 12rem;
+        padding-bottom: 1rem;
     }
 
     .about .row .content h3 {
